@@ -31,6 +31,16 @@ This project predicts restaurants based on their **cuisine** using **machine lea
 
 ---
 
+### 🔗 Large File Download
+
+The trained model file (`mlmodel.pkl`, ~600MB) is hosted externally due to GitHub size limits.
+
+Download here: https://drive.google.com/file/d/1ev5zSbf-bPNzFVVa5zUVrP1l0ZP7eHut/view?usp=sharing
+
+Place the file in the project root directory before running the code.
+
+---
+
 ## Dependencies
 
 - pandas
